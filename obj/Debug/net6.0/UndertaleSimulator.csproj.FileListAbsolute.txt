@@ -1,0 +1,14 @@
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\bin\Debug\net6.0\UndertaleSimulator.exe
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\bin\Debug\net6.0\UndertaleSimulator.deps.json
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\bin\Debug\net6.0\UndertaleSimulator.runtimeconfig.json
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\bin\Debug\net6.0\UndertaleSimulator.dll
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\bin\Debug\net6.0\UndertaleSimulator.pdb
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\obj\Debug\net6.0\UndertaleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\obj\Debug\net6.0\UndertaleSimulator.AssemblyInfoInputs.cache
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\obj\Debug\net6.0\UndertaleSimulator.AssemblyInfo.cs
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\obj\Debug\net6.0\UndertaleSimulator.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\obj\Debug\net6.0\UndertaleSimulator.dll
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\obj\Debug\net6.0\refint\UndertaleSimulator.dll
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\obj\Debug\net6.0\UndertaleSimulator.pdb
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\obj\Debug\net6.0\UndertaleSimulator.genruntimeconfig.cache
+C:\Users\kadir\Documents\Programming\UndertaleSimulator\obj\Debug\net6.0\ref\UndertaleSimulator.dll
